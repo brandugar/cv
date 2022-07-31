@@ -42,9 +42,10 @@ const IndexPage = () => (
             Hobbies
           </h2>
           <p className='p-4'>
-            Me gusa mucho escuchar música tipo LoFi, aprender cosas nuevas, ver
-            series de todo tipo, me gusta la música en general, dibujar, pintar,
-            tocar el ukulele, aprender inglés, francés y viajar en moto.
+            Me gusta mucho escuchar música tipo LoFi, aprender cosas nuevas, ver
+            series de todo tipo, aunque prefiero las de terror, me gusta la
+            música en general, dibujar, pintar, tocar el ukulele, aprender
+            inglés, francés y viajar en moto.
           </p>
         </div>
       </div>

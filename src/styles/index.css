@@ -6,8 +6,3 @@ h1{
   @apply text-gray-800 text-2xl font-mono
 }
 
-footer {
-  position: fixed;
-  bottom: 0px;
-  width: 100%;
-}

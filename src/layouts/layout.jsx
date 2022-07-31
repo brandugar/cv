@@ -144,7 +144,7 @@ const Layout = () => (
       </div>
     </div>
 
-    <footer className='flex justify-center bg-gray-600 p-1 text-sm font-semibold text-white lg:text-lg xl:text-xl'>
+    <footer className='flex justify-center bg-gray-600 p-1 text-sm font-semibold text-slate-200 lg:text-lg xl:text-xl'>
       Developed by Brandon Duque
     </footer>
   </main>
